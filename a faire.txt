@@ -1,0 +1,32 @@
+Nombre total vente par branch
+Nombre total vente par city
+Nombre total vente par gender
+Nombre total vente par Product_line
+Nombre total vente par payment
+Nombre total vente par Date
+Nombre total vente par Customer_type
+
+
+Somme produit vendu par branch
+Somme produit vendu par city
+Somme produit vendu par gender 
+Somme produit vendu par Product_line
+Somme produit vendu par payment
+Somme produit vendu par Date
+
+
+vente total effectue par branch
+vente total effectue par city
+vente total effectue par gender homme
+vente total effectue par gender femme
+vente total effectue par Product_line
+vente total effectue par payment
+vente total effectue par Date
+
+
+
+nombre femme achete Product_line health and beauty
+nombre de produit achete avec rating > 5
+nombre de produit achete avec rating < 5
+nombre de produit achete avec rating > 9
+
