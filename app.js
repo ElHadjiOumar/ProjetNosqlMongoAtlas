@@ -14,7 +14,7 @@ app.use('/', supermarcheRoutes);
 // on va coller l'uri donnée par Atlas
 
 mongoose
-  .connect( 'mongodb+srv://mbengue:passer123@cluster0.jwc30.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+  .connect( ''
   )
   .then(result => {
     // ecoute le port 3000
